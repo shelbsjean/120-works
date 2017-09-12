@@ -1,0 +1,8 @@
+Name: {Shelby Swanson}
+Date: {9/12/2017}
+
+This is my first text document for one of Dr. Musick's Media Arts courses.
+
+I added a new line to this file in my text editor!!!
+I am making a change to test1
+Im testing to make sure my Git desktop is working
