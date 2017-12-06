@@ -1,6 +1,6 @@
 Shelby Swanson Section 50
 
-[Live Sketch Link](Your Live Link)
+[Live Sketch Link](https://shelbsjean.github.io/120-works/hw-7/)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
